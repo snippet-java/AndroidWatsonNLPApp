@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">watsonnlp</string>
+    <string name="entry_text_hint">Text to be translated</string>
+    <string name="result_text_hint">Translated text</string>
+
+    <string name="speech_button_hint">Text to Speech</string>
+
+</resources>
